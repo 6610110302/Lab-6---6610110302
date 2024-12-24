@@ -26,4 +26,4 @@ jobs:
 
       - name: Deploy (Optional)
         run: |
-          echo "Deploying to the server... !!"  # ใส่คำสั่งสำหรับ deployment ที่ต้องการ เช่น SCP, SSH เป็นต้น
+          echo "Deploying to the server... !!!!"  # ใส่คำสั่งสำหรับ deployment ที่ต้องการ เช่น SCP, SSH เป็นต้น
